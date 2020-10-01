@@ -1,4 +1,4 @@
-Ripple Demurrage Calculator
+RIPPLLE DEMURRAGE CALCULATER
 ===========================
 
 This webpage demonstrates simple conversions between display and ledger values 
